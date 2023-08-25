@@ -130,9 +130,9 @@ img{
     img{
         width: 25vw;
         height:15vh;
-        margin: 3rem 0rem 2.7rem 4.8rem;}
+        margin: 2.5rem 0rem 2.3rem 4.8rem;}
     main.container{
         min-width: 300px;
-        min-height: 36vh;
+        min-height: 37vh;
     }
 }
