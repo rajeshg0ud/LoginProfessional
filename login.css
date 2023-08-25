@@ -131,4 +131,7 @@ img{
         width: 18vw;
         height:15vh;
         margin: 3rem 0rem 2.7rem 4.8rem;}
+    main.container{
+    min-width: 190px;
+}
 }
