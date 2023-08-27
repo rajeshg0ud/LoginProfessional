@@ -127,10 +127,10 @@ img{
     margin: 3rem 0rem 2.7rem 4.6rem;
 }
 @media only screen and (max-width:600px){
-    img{
-        width: 27.5vw;
+     img{
+        width: 27.6vw;
         height:15vh;
-        margin: 2.5rem 0rem 2.3rem 4.7rem;}
+        margin: 2.5rem 0rem 2.3rem 4.6rem;}
     main.container{
         min-width: 300px;
         min-height: 36vh;
